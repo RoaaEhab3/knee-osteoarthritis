@@ -1,4 +1,5 @@
 🦵 Knee Osteoarthritis Detection using EfficientNet-B5
+
 📌 Overview
 
 This project applies deep learning to detect knee osteoarthritis (KOA) from medical images using EfficientNet-B5. The goal is to build an accurate and robust model that supports early diagnosis and assists healthcare professionals in clinical decision-making.
